@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tebogo Hlope</h1>
 <h3 align="center">A passionate Software Developer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=st10159078&label=Profile%20views&color=0e75b6&style=flat" alt="st10159078" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=st10159078&label=Profile%20views&color=0e75b6&style=flat" alt="st10159078" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st10159078" alt="st10159078" /></a> </p>
 
