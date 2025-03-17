@@ -9,7 +9,17 @@
 
 - 📫 How to reach me **mtahlope@gmail.com**
 
-- ⚡ Fun fact **I enjoy football⚽**
+- ⚡ Fun fact **Some of my best ideas come late at night! 🌙**
+
+- 🌱 My hobbies are:
+  - 🖥️ Coding
+  - 🎮Gaming
+  - 🎧Music
+  - 📷Photography
+  - 🏉Rugby
+  - 🏃🏽Running
+  - ⚽Soccer
+  - 🏊🏽‍♂️Swimming   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
